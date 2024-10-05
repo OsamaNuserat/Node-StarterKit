@@ -2,7 +2,8 @@
 
 Welcome to the Node.js Starter Kit! This project provides a robust foundation for building Node.js applications quickly and efficiently.
 
-## Features
+## Features 
+
 
 - **Express.js**: A minimal and flexible Node.js web application framework.
 - **Prettier**: An opinionated code formatter for consistent code style.
@@ -35,6 +36,9 @@ Welcome to the Node.js Starter Kit! This project provides a robust foundation fo
 
 To start the development server, run:
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn run dev
+```
+### Don't forget to update the .env file with your specific configuration details before running the application.
+
